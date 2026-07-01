@@ -1,0 +1,28 @@
+.claude/
+Input/
+__pycache__/
+*.py[cod]
+*$py.class
+tests/scratch/
+.pytest_cache/
+mp3/
+flac/
+database/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Test / coverage artifacts
+.coverage
+.coverage.*
+htmlcov/
+.cache/
+.hypothesis/
+
+# OS cruft
+.DS_Store
+Thumbs.db
+
